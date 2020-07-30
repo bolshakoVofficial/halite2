@@ -1,0 +1,1 @@
+halite.exe -d "240 160" "python bot.py" "python test_bot.py"
