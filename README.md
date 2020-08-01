@@ -5,4 +5,4 @@ Halite is an open source artificial intelligence programming challenge, created 
 
 https://2017.halite.io/
 
-[game](/game.png)
+![game](/game.png)
